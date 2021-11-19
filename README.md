@@ -61,7 +61,8 @@ Techs that I've used at least once
 ![Stack](https://img.shields.io/badge/Slack-3e91b5?style=flat-square&logo=slack&logoColor=white)
 ![Stack](https://img.shields.io/badge/VisualStudio-4b0082?style=flat-square&logo=VisualStudio&logoColor=white)
 ![Stack](https://img.shields.io/badge/VisualStudioCode-4169e1?style=flat-square&logo=VisualStudioCode&logoColor=white)
-
+![Stack](https://img.shields.io/badge/eclipse-191970?style=flat-square&logo=eclipse&logoColor=white)
+![Stack](https://img.shields.io/badge/pycharm-AFEEEE?style=flat-square&logo=pycharm&logoColor=black)
 ### :mailbox_with_mail: Contacts
 
 [![Badge](http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/)](https://www.instagram.com/iamminjun/) 
