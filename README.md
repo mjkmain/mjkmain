@@ -25,6 +25,9 @@
   * NLP
   * XAI
   * Computer Vision
+  * Auto ML
+  * MLOps
+
 - XAI
   * find function which same mapping with Balck-Box  
 
@@ -34,6 +37,7 @@
   * analysis
 
 - Programming
+- Drone
 
 ### :hammer: Tech Stack
 
@@ -47,6 +51,16 @@ Techs that I've used at least once
 ![Stack](https://img.shields.io/badge/numpy-8977ad?style=flat-square&logo=numpy&logoColor=white)
 ![Stack](https://img.shields.io/badge/pandas-0080ff?style=flat-square&logo=pandas&logoColor=white)
 ![Stack](https://img.shields.io/badge/LaTeX-eee6c4?style=flat-square&logo=Latex&logoColor=black)
+
+###
+![Stack](https://img.shields.io/badge/TensorFlow-FFA500?style=flat-square&logo=TensorFlow&logoColor=white)
+![Stack](https://img.shields.io/badge/PyTorch-FF4500?style=flat-square&logo=Pytorch&logoColor=white)
+###
+![Stack](https://img.shields.io/badge/jupyter-FF8C00?style=flat-square&logo=jupyter&logoColor=white)
+![Stack](https://img.shields.io/badge/GoogleColab-FFD700?style=flat-square&logo=GoogleColab&logoColor=black)
+![Stack](https://img.shields.io/badge/Slack-3e91b5?style=flat-square&logo=slack&logoColor=white)
+![Stack](https://img.shields.io/badge/VisualStudio-4b0082?style=flat-square&logo=VisualStudio&logoColor=white)
+![Stack](https://img.shields.io/badge/VisualStudioCode-4169e1?style=flat-square&logo=VisualStudioCode&logoColor=white)
 
 ### :mailbox_with_mail: Contacts
 
