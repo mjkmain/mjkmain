@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Mjkmain&fontSize=70&animation=twinkling)
 
- Hello My name is Minjun Kim, I've been studying Computer Science and Mathematics.
+ Hello My name is Minjun Kim, I' studying Computer Science and Mathematics.
 
 ### :runner: Career
 
