@@ -13,7 +13,7 @@
 |  2021.03 ~    |       education    |    Department of Computer Engineering |          Hanbat National University            |                       -                  |
 |  2021.01.10 ~ | Research Activities|       Tikhonov Regularization Research | Mathematical Sciences Lab,  Hanbat Nat’l Univ. | Research Topic : Ill-posed inverse problem  specifically, Optimize Tikhonov Regularization parameter using XAI|
 |  2021.01.09   | Join Lab.          |       XAI Researcher      |   Mathematical Sciences Lab,  Hanbat Nat’l Univ.| Join "Institute for Applied Mathematics and Optics"|
-|  2020.12.11   |        Award       |        Bronze Award       |           Korean Mathematical Society          | Bronze award, University Student Contest of Methematics |
+|  2020.12.11   |        Award       |        Bronze Award       |           Korean Mathematical Society          | Bronze award, Korea University Student Contest of Methematics |
 |  2020.10.01   |   Team Activities  | The Member, APPSILON Team |                Team APPSILON                   | Front - end Toy project |
 |  2018.03 ~ 2021.02   |       education    |Department of Civil and Environmental Engineering|Hanbat National University|            -            |
 
@@ -41,6 +41,8 @@ Techs that I've used at least once
 ![Stack](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![Stack](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 ![Stack](https://img.shields.io/badge/Flask-1572B6?style=flat-square&logo=Flask&logoColor=white)
+![Stack](https://img.shields.io/badge/numpy-8977ad?style=flat-square&logo=numpy&logoColor=white)
+![Stack](https://img.shields.io/badge/pandas-0080ff?style=flat-square&logo=pandas&logoColor=white)
 
 ### :mailbox_with_mail: Contacts
 
