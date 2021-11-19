@@ -69,8 +69,10 @@ Techs that I've used at least once
 
 📛 Tech Blog
 
-[![Badge](http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr)](https://mjkmain.github.io/) 
 [![Badge](http://img.shields.io/badge/-Tistory%20Tech%20Blog-brightgreen?style=flat&logo=Tistory&link=https://alpox.kr)](https://deep-learning-challenge.tistory.com/)
+###
+[![Badge](http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr)](https://mjkmain.github.io/) 
+
 
 ### :information_desk_person: Info
 
