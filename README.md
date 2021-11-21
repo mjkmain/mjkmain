@@ -4,7 +4,7 @@
 
 ### :runner: Career
 
-|     Date      |         Type        |          Contents         |                  Organization                 |                     detail               |
+|     Date      |         Type        |          Contents         |                  Organization                 |                     Details               |
 |:-------------:|:-------------------:|:-------------------------:|:---------------------------------------------:|:----------------------------------------:|
 |  2021.09 ~ 2021.12| Teaching Assistant | Deep-learning class        | Department of Computer Engineering,Hanbat Nat'l Univ.| T.A. of Deep-learning class   (prof. K.T.Lim)|
 |  2021.08      | Special Lecture    | Jetbot, NVIDIA             | Department of Computer Engineering,Hanbat Nat'l Univ.| T.A. of using AI with Jetbot Class (prof. K.T.Lim)|
