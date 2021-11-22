@@ -90,8 +90,10 @@ Techs that I've used at least once
 ###
 # :mailbox_with_mail: Contacts
 
+mjkmain20@gmail.com
+###
 [![Badge](http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/)](https://www.instagram.com/iamminjun/) 
-[![Badge](http://img.shields.io/badge/-Gmail-white?style=flat&logo=Gmail&link=https://Gmail.com/alpox.dev/)](mjkmain20@gmail.com) 
+
 
 
 
