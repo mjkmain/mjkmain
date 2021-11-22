@@ -19,7 +19,7 @@
 |  2018.03 ~ 2021.02   |       education    |Department of Civil and Environmental Engineering|Hanbat National University|            -            |
 
 
-### :star: Interest
+### :star: Interests
 
 - Computer Science
   * NLP
@@ -43,7 +43,7 @@
 - Drone
   * Reinforcement Learning 
 
-### :hammer: Tech Stack
+### :hammer: Tech Stacks
 
 Techs that I've used at least once
 
