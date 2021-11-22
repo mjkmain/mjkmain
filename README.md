@@ -34,26 +34,26 @@
 
 # :star: Interests
 
-- Computer Science
+- ### Computer Science
   * NLP
   * XAI
   * Computer Vision
   * Auto ML
   * MLOps
   
-- XAI
+- ### XAI
   * find optimal function which have same mapping with Balck-Box  
   * Specifically, I want use XAI for find best parameter of Tikhonov Regularization (L2 Regularization)
 
-- Mathematics 
+- ### Mathematics 
   * Ill-posed inverse problem
   * Optimize Tikhonov Regularization Parameter (L2 Regularization)
   * analysis
 
-- Programming
+- ### Programming
   * Python
 
-- Drone
+- ### Drone
   * Reinforcement Learning 
 # :trophy: Awards
   * I won the Bronze award at 39th University Students Contest of Mathematics Part II (제 39회 대학생 수학 경시대회 II분야 동상)
