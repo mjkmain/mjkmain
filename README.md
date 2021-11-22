@@ -2,13 +2,13 @@
 
  Hello My name is Minjun Kim, I interested in Computer Science and Mathematics.
 
-# profile
+# :boy: profile
   * ### Nationality : Republic of Korea
   * ### Birth : 1998
   * ### Major : Computer engineering 
 
 ###
-# Website
+# 📛 Website
 
 * ### Tistory Tech Blog : [![Badge](http://img.shields.io/badge/-Tistory%20Tech%20Blog-brightgreen?style=flat&logo=Tistory&link=https://alpox.kr)](https://deep-learning-challenge.tistory.com/)
 ###
