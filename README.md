@@ -1,6 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=KimMinJun&fontSize=70&animation=twinkling)
 
- Hello My name is Minjun Kim, I'm studying Computer Science and Mathematics.
+ Hello My name is Minjun Kim, I interested in Computer Science and Mathematics.
+
+# profile
+  * Nationality : Republic of Korea
+  * Birth : 1998
+  * Major : Computer engineering 
+
 
 ### :runner: Career
 
