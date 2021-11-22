@@ -55,10 +55,12 @@
 
 - ### Drone
   * Reinforcement Learning 
+
+###
 # :trophy: Awards
   * I won the Bronze award at 39th University Students Contest of Mathematics Part II (제 39회 대학생 수학 경시대회 II분야 동상)
     - link : https://www.kms.or.kr/board/list.html?code=conf13&num=15897
-
+###
 
 # :hammer: Tech Stacks
 
@@ -84,14 +86,15 @@ Techs that I've used at least once
 ![Stack](https://img.shields.io/badge/VisualStudioCode-4169e1?style=flat-square&logo=VisualStudioCode&logoColor=white)
 ![Stack](https://img.shields.io/badge/eclipse-191970?style=flat-square&logo=eclipse&logoColor=white)
 ![Stack](https://img.shields.io/badge/pycharm-AFEEEE?style=flat-square&logo=pycharm&logoColor=black)
-### :mailbox_with_mail: Contacts
+###
+# :mailbox_with_mail: Contacts
 
 [![Badge](http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/)](https://www.instagram.com/iamminjun/) 
 [![Badge](http://img.shields.io/badge/-Gmail-white?style=flat&logo=Gmail&link=https://Gmail.com/alpox.dev/)](mjkmain20@gmail.com) 
 
 
 
-
+###
 # :information_desk_person: Info
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmjkmain%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false) ![Hits](https://img.shields.io/github/followers/mjkmain?label=Follow)
