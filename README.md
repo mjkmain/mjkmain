@@ -78,7 +78,7 @@ Techs that I've used at least once
 [![Badge](http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/)](https://www.instagram.com/iamminjun/) 
 [![Badge](http://img.shields.io/badge/-Gmail-white?style=flat&logo=Gmail&link=https://Gmail.com/alpox.dev/)](mjkmain20@gmail.com) 
 
-📛 Tech Blog
+### 📛 Tech Blog
 
 [![Badge](http://img.shields.io/badge/-Tistory%20Tech%20Blog-brightgreen?style=flat&logo=Tistory&link=https://alpox.kr)](https://deep-learning-challenge.tistory.com/)
 ###
