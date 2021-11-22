@@ -21,7 +21,7 @@
 |:-------------:|:-------------------:|:-------------------------:|:---------------------------------------------:|:----------------------------------------:|
 |  2021.09 ~ 2021.12| Teaching Assistant | Deep-learning class        | Department of Computer Engineering,Hanbat Nat'l Univ.| T.A. of Deep-learning class   (prof. K.T.Lim)|
 |  2021.08      | Special Lecture    | Jetbot, NVIDIA             | Department of Computer Engineering,Hanbat Nat'l Univ.| T.A. of using AI with Jetbot Class (prof. K.T.Lim)|
-|  2021.07~ 2021.08 | Research Activities| Predict Neuclear risk using Bayesian Network| ADD(Agency for Defense Development)| confidential                       |
+|  2021.07~ 2021.08 | Research Activities| Predict Neuclear risk using Bayesian Network| ADD(Agency for Defense Development)| Confidential                       |
 |  2021.06 ~    | Join Lab.          |     AI Researcher         |AAI Lab. (prof K.T.Lim), Hanbat Nat'l Univ.     |  Join "Applied Artificial Inteligence (AAI) Lab."  Research Topic : NLP                    |
 |  2021.03 ~    |       education    |    Department of Computer Engineering |          Hanbat National University            |                       -                  |
 |  2021.03 ~ 2021.10| Extracurricular Activities| Math Assistant for Hanbat National University Students| Personal activity | https://k-uscm.github.io/ |
