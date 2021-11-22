@@ -7,7 +7,14 @@
   * Birth : 1998
   * Major : Computer engineering 
 
+###
+# Website
 
+### Tistory Tech Blog : [![Badge](http://img.shields.io/badge/-Tistory%20Tech%20Blog-brightgreen?style=flat&logo=Tistory&link=https://alpox.kr)](https://deep-learning-challenge.tistory.com/)
+###
+### Github Tech Blog : [![Badge](http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr)](https://mjkmain.github.io/) 
+
+### Youtube :  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCwmPr4S5IoSGUEVxLvnxqSw)](https://www.youtube.com/c/kyleschool)
 ### :runner: Career
 
 |     Date      |         Type        |          Contents         |                  Organization                 |                     Details               |
@@ -78,11 +85,7 @@ Techs that I've used at least once
 [![Badge](http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/)](https://www.instagram.com/iamminjun/) 
 [![Badge](http://img.shields.io/badge/-Gmail-white?style=flat&logo=Gmail&link=https://Gmail.com/alpox.dev/)](mjkmain20@gmail.com) 
 
-### 📛 Tech Blog
 
-[![Badge](http://img.shields.io/badge/-Tistory%20Tech%20Blog-brightgreen?style=flat&logo=Tistory&link=https://alpox.kr)](https://deep-learning-challenge.tistory.com/)
-###
-[![Badge](http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr)](https://mjkmain.github.io/) 
 
 
 ### :information_desk_person: Info
