@@ -3,19 +3,19 @@
  Hello My name is Minjun Kim, I interested in Computer Science and Mathematics.
 
 # profile
-  * Nationality : Republic of Korea
-  * Birth : 1998
-  * Major : Computer engineering 
+  * ### Nationality : Republic of Korea
+  * ### Birth : 1998
+  * ### Major : Computer engineering 
 
 ###
 # Website
 
-### Tistory Tech Blog : [![Badge](http://img.shields.io/badge/-Tistory%20Tech%20Blog-brightgreen?style=flat&logo=Tistory&link=https://alpox.kr)](https://deep-learning-challenge.tistory.com/)
+* ### Tistory Tech Blog : [![Badge](http://img.shields.io/badge/-Tistory%20Tech%20Blog-brightgreen?style=flat&logo=Tistory&link=https://alpox.kr)](https://deep-learning-challenge.tistory.com/)
 ###
-### Github Tech Blog : [![Badge](http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr)](https://mjkmain.github.io/) 
+* ### Github Tech Blog : [![Badge](http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr)](https://mjkmain.github.io/) 
 
-### Youtube :  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCwmPr4S5IoSGUEVxLvnxqSw)](https://www.youtube.com/channel/UCwmPr4S5IoSGUEVxLvnxqSw)
-### :runner: Career
+* ### Youtube :  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCwmPr4S5IoSGUEVxLvnxqSw)](https://www.youtube.com/channel/UCwmPr4S5IoSGUEVxLvnxqSw)
+# :runner: Career
 
 |     Date      |         Type        |          Contents         |                  Organization                 |                     Details               |
 |:-------------:|:-------------------:|:-------------------------:|:---------------------------------------------:|:----------------------------------------:|
@@ -32,7 +32,7 @@
 |  2018.03 ~ 2021.02   |       education    |Department of Civil and Environmental Engineering|Hanbat National University|            -            |
 
 
-### :star: Interests
+# :star: Interests
 
 - Computer Science
   * NLP
@@ -56,7 +56,7 @@
 - Drone
   * Reinforcement Learning 
 
-### :hammer: Tech Stacks
+# :hammer: Tech Stacks
 
 Techs that I've used at least once
 
@@ -88,7 +88,7 @@ Techs that I've used at least once
 
 
 
-### :information_desk_person: Info
+# :information_desk_person: Info
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmjkmain%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false) ![Hits](https://img.shields.io/github/followers/mjkmain?label=Follow)
 
