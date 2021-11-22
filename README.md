@@ -29,7 +29,7 @@
   * MLOps
   
 - XAI
-  * find optimal function which same mapping with Balck-Box  
+  * find optimal function which have same mapping with Balck-Box  
   * Specifically, I want use XAI for find best parameter of Tikhonov Regularization (L2 Regularization)
 
 - Mathematics 
