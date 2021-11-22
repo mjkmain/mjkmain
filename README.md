@@ -14,7 +14,7 @@
 ###
 * ### Github Tech Blog : [![Badge](http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr)](https://mjkmain.github.io/) 
 
-* ### Youtube :  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCwmPr4S5IoSGUEVxLvnxqSw)](https://www.youtube.com/channel/UCwmPr4S5IoSGUEVxLvnxqSw)
+* ### Youtube :  [![Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCwmPr4S5IoSGUEVxLvnxqSw)](https://www.youtube.com/channel/UCwmPr4S5IoSGUEVxLvnxqSw)
 # :runner: Career
 
 |     Date      |         Type        |          Contents         |                  Organization                 |                     Details               |
