@@ -100,13 +100,13 @@ mjkmain20@gmail.com
 ###
 # Grade
 ## 1st year
-* 1-1 ![Grade](https://img.shields.io/badge/grade-4.36%2F4.5-blue)
+* Spring ![Grade](https://img.shields.io/badge/grade-4.36%2F4.5-blue)
 ###
-* 1-S ![Grade](https://img.shields.io/badge/grade-4.5%2F4.5-blue)
+* Summer ![Grade](https://img.shields.io/badge/grade-4.5%2F4.5-blue)
 ###
-* 1-2 ![Grade](https://img.shields.io/badge/grade-4.38%2F4.5-blue)
+* Fall ![Grade](https://img.shields.io/badge/grade-4.38%2F4.5-blue)
 ###
 ## 2nd year
-* 2-1 ![Grade](https://img.shields.io/badge/grade-4.5%2F4.5-blue)
+* Spring ![Grade](https://img.shields.io/badge/grade-4.5%2F4.5-blue)
 ###
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mjkmain)
