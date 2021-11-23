@@ -33,7 +33,7 @@
 |  2018.03 ~ 2021.02   |       education    |Department of Civil and Environmental Engineering|Hanbat National University|            -            |
 
 
-# :star: Interests
+# 🌟 Interests
 
 - ### Computer Science
   * NLP
@@ -63,7 +63,7 @@
     - link : https://www.kms.or.kr/board/list.html?code=conf13&num=15897
 ###
 
-# :hammer: Tech Stacks
+# 🌠 Tech Stacks
 
 Techs that I've used at least once
 
@@ -88,7 +88,7 @@ Techs that I've used at least once
 ![Stack](https://img.shields.io/badge/eclipse-191970?style=flat-square&logo=eclipse&logoColor=white)
 ![Stack](https://img.shields.io/badge/pycharm-AFEEEE?style=flat-square&logo=pycharm&logoColor=black)
 ###
-# :mailbox_with_mail: Contacts
+# 📬 Contacts
 
 mjkmain20@gmail.com
 ###
