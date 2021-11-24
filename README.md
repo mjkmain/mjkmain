@@ -15,7 +15,7 @@
 * ### Github Tech Blog : [![Badge](http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr)](https://mjkmain.github.io/) 
 
 * ### Youtube :  [![Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCwmPr4S5IoSGUEVxLvnxqSw)](https://www.youtube.com/channel/UCwmPr4S5IoSGUEVxLvnxqSw)
-# :runner: Career
+# 📌 Career
 
 |     Date      |         Type        |          Contents         |                  Organization                 |                     Details               |
 |:-------------:|:-------------------:|:-------------------------:|:---------------------------------------------:|:----------------------------------------:|
@@ -92,19 +92,16 @@ mjkmain20@gmail.com
 ###
 [![Badge](http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/)](https://www.instagram.com/iamminjun/) 
 
-
-
-
 ###
 # Grade
-## 1st year
-* Spring ![Grade](https://img.shields.io/badge/grade-4.36%2F4.5-blue)
-###
-* Summer ![Grade](https://img.shields.io/badge/grade-4.5%2F4.5-blue)
-###
-* Fall ![Grade](https://img.shields.io/badge/grade-4.38%2F4.5-blue)
-###
-## 2nd year
-* Spring ![Grade](https://img.shields.io/badge/grade-4.5%2F4.5-blue)
+
+|    *Semester*  |      *Spring*         |       *Summer*     |       *Fall*      |       *Winter*       |      
+|:-------------:|:-------------------:|:-------------------:|:-------------------:|:-------------------:|
+|    *1st year*    | ![Grade](https://img.shields.io/badge/grade-4.36%2F4.5-blue)| ![Grade](https://img.shields.io/badge/grade-4.5%2F4.5-blue)| ![Grade](https://img.shields.io/badge/grade-4.38%2F4.5-blue)| - |
+|    *2nd year*    | ![Grade](https://img.shields.io/badge/grade-4.5%2F4.5-blue) | 
+|    *3rd year*    |
+|    *4th year*    |
+
+
 ###
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mjkmain)
