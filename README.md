@@ -57,7 +57,7 @@
 
 ###
 # :trophy: Awards
-  * Awarded a Bronze award at 39th University Students Contest of Mathematics Part II (제 39회 대학생 수학 경시대회 II분야 동상)
+  * 🥉 Awarded a 3rd place award at 39th University Students Contest of Mathematics Part II (제 39회 대학생 수학 경시대회 II분야 동상)
     - link : https://www.kms.or.kr/board/list.html?code=conf13&num=15897
 ###
 
