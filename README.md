@@ -24,7 +24,7 @@
 |  2021.07~ 2021.08 | Research Activities| Predict Neuclear risk using Bayesian Network| ADD(Agency for Defense Development)| Confidential                       |
 |  2021.06 ~    | Join Lab.          |     AI Researcher         |AAI Lab. (prof K.T.Lim), Hanbat Nat'l Univ.     |  Join "Applied Artificial Inteligence (AAI) Lab."  Research Topic : NLP    https://sites.google.com/view/aailab                |
 |  2021.03 ~    |       education    |    Department of Computer Engineering |          Hanbat National University            |                       -                  |
-|  2021.03 ~ 2021.07| Extracurricular Activities| Math Assistant | Nomad College, Hanbat Nat'l Univ. | T.A. of Calculus1, Calculus2, Linear Algebra, Differential equation|
+|  2021.03 ~ 2021.07| Special Activities| Math Assistant | Nomad College, Hanbat Nat'l Univ. | T.A. of Calculus1, Calculus2, Linear Algebra, Differential equation|
 |  2021.01.10 ~ | Research Activities|       Tikhonov Regularization Research |  Applied Mathematics Lab,  Hanbat Nat’l Univ. | Research Topic : Ill-posed inverse problem  specifically, Optimize Tikhonov Regularization parameter using XAI|
 |  2021.01.09   | Join Lab.          |       XAI Researcher      |   Applied Mathematics Lab,  Hanbat Nat’l Univ.| Join "Institute for Applied Mathematics and Optics"  Research Topic : Resolving an Ill-posed Inverse Problem based on DNN|
 |  2020.12.11   |        Award       |        Bronze Award       |           Korean Mathematical Society          | Bronze award, Korea University Student Contest of Methematics |
