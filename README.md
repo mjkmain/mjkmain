@@ -28,7 +28,6 @@
 |  2021.01.10 ~ | Research Activities|       Tikhonov Regularization Research |  Applied Mathematics Lab,  Hanbat Nat’l Univ. | Research Topic : Ill-posed inverse problem  specifically, Optimize Tikhonov Regularization parameter using XAI|
 |  2021.01.09   | Join Lab.          |       XAI Researcher      |   Applied Mathematics Lab,  Hanbat Nat’l Univ.| Join "Institute for Applied Mathematics and Optics"  Research Topic : Resolving an Ill-posed Inverse Problem based on DNN|
 |  2020.12.11   |        Award       |        Bronze Award       |           Korean Mathematical Society          | Bronze award, Korea University Student Contest of Methematics |
-|  2020.10.01   |   Team Activities  | The Member, APPSILON Team |                Team APPSILON                   | - |
 |  2018.03 ~ 2021.02   |       education    |Department of Civil and Environmental Engineering|Hanbat National University|            -            |
 
 
