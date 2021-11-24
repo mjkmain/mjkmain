@@ -26,7 +26,7 @@
 |  2021.03 ~    |       Education    |    Department of Computer Engineering |          Hanbat National University            |                       -                  |
 |  2021.03 ~ 2021.07| Mentorship | Math Assistant | Nomad College, Hanbat Nat'l Univ. | T.A. of Calculus1, Calculus2, Linear Algebra, Differential equation|
 |  2021.01.10 ~ | Research Activities|       Tikhonov Regularization Research |  Applied Mathematics Lab,  Hanbat Nat’l Univ. | Research Topic : Ill-posed inverse problem  specifically, Optimize Tikhonov Regularization parameter using XAI|
-|  2021.01.09   | Join Lab.          |       XAI Researcher      |   Applied Mathematics Lab,  Hanbat Nat’l Univ.| Join "Institute for Applied Mathematics and Optics"  Research Topic : Resolving an Ill-posed Inverse Problem based on DNN|
+|  2021.01.09   | Join Lab.          |       XAI Researcher      |   Applied Mathematics Lab,  Hanbat Nat’l Univ.| Join "Institute for Applied Mathematics and Optics"  Research Topic : Optimize the Tikhonov Regularization Parameter|
 |  2020.12.11   |        Award       |        Bronze Award       |           Korean Mathematical Society          | Bronze award, Korea University Student Contest of Methematics |
 |  2018.03 ~ 2021.02   |    Education    |Department of Civil and Environmental Engineering|Hanbat National University|            -            |
 
