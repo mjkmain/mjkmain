@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=KimMinJun&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=mjkmain&fontSize=70)
 
  Hello My name is Minjun Kim, I interested in Computer Science and Mathematics.
 
