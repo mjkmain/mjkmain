@@ -18,7 +18,10 @@
 * ### Youtube :  [![Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCwmPr4S5IoSGUEVxLvnxqSw)](https://www.youtube.com/channel/UCwmPr4S5IoSGUEVxLvnxqSw)
 # 📌 Career
 
-* AAI Lab. activities
+<div align="center"><strong>
+    AAI Lab. activities
+</div>
+    
 ###
 |     *Date*      |         *Type*        |          *Contents*         |   *Details* |
 |:-------------:|:-------------------:|:-------------------------:|:----------:|
@@ -27,8 +30,12 @@
 |  2021.07~ 2021.08 | Research Activities| Predict Neuclear risk using Bayesian Network (ADD)|  Confidential                       |
 |  2021.08      | Special Lecture    | Jetbot, NVIDIA             |  T.A. of using AI with Jetbot Class (prof. K.T.Lim)|
 |  2021.09 ~ 2021.12| Teaching Assistant | Deep-learning class        | T.A. of Deep-learning class   (prof. K.T.Lim)|
+###
 
-* Institute for Applied Mathematics and Optics activities
+
+<div align="center"><strong>
+    Institute for Applied Mathematics and Optics activities
+</div>
 
 ###
 |     *Date*      |         *Type*        |          *Contents*         |   *Details* |
@@ -36,7 +43,11 @@
 |  2021.01   | Join Lab.          |       XAI Researcher      | Join "Institute for Applied Mathematics and Optics"  Research Topic : Optimize the Tikhonov Regularization Parameter|
 |2021.01 ~| Research Activities|       Tikhonov Regularization Research |  Research Topic : Ill-posed inverse problem  Spcecifically, Optimize Tikhonov Regularization parameter using XAI|
 
-* Personal highlight
+###
+    
+<div align="center"><strong>
+    Personal highlight
+</div>
 
 ###
 |     *Date*      |         *Type*        |          *Contents*         | *Organization*|  *Details* |
