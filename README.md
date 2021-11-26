@@ -85,7 +85,6 @@ Techs that I've used at least once
 ![Stack](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![Stack](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![Stack](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
-![Stack](https://img.shields.io/badge/Flask-1572B6?style=flat-square&logo=Flask&logoColor=white)
 ![Stack](https://img.shields.io/badge/numpy-8977ad?style=flat-square&logo=numpy&logoColor=white)
 ![Stack](https://img.shields.io/badge/pandas-0080ff?style=flat-square&logo=pandas&logoColor=white)
 ![Stack](https://img.shields.io/badge/LaTeX-eee6c4?style=flat-square&logo=Latex&logoColor=black)
