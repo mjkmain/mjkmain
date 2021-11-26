@@ -16,10 +16,12 @@
 * ### Tistory Tech Blog : [![Badge](http://img.shields.io/badge/-Tistory%20Tech%20Blog-brightgreen?style=flat&logo=Tistory&link=https://alpox.kr)](https://deep-learning-challenge.tistory.com/)
 
 * ### Youtube :  [![Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCwmPr4S5IoSGUEVxLvnxqSw)](https://www.youtube.com/channel/UCwmPr4S5IoSGUEVxLvnxqSw)
-# 📌 Career
+
+    
+ # ☑️ Research activities
 
 <div align="center"><strong>
-    AAI Lab. activities
+    AAI Lab. 
 </div>
     
 ###
@@ -34,7 +36,7 @@
 
 
 <div align="center"><strong>
-    Institute for Applied Mathematics and Optics activities
+    Institute for Applied Mathematics and Optics
 </div>
 
 ###
@@ -44,9 +46,11 @@
 |2021.01 ~| Research Activities|       Tikhonov Regularization Research |  Research Topic : Ill-posed inverse problem  Spcecifically, Optimize Tikhonov Regularization parameter using XAI|
 
 ###
+
+# 📌 Career
     
 <div align="center"><strong>
-    Personal highlight
+    
 </div>
 
 ###
