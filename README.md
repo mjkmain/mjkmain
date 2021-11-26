@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=mjkmain&fontSize=70)
+<div align="center">
+    Hello My name is Minjun Kim, I interested in Computer Science and Mathematics.
+</div>
 
- Hello My name is Minjun Kim, I interested in Computer Science and Mathematics.
+
 
 # :boy: profile
   * ### Nationality : Republic of Korea
