@@ -11,8 +11,6 @@
 # 📛 Website
 
 * ### Tistory Tech Blog : [![Badge](http://img.shields.io/badge/-Tistory%20Tech%20Blog-brightgreen?style=flat&logo=Tistory&link=https://alpox.kr)](https://deep-learning-challenge.tistory.com/)
-###
-* ### Github Tech Blog : [![Badge](http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr)](https://mjkmain.github.io/) 
 
 * ### Youtube :  [![Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCwmPr4S5IoSGUEVxLvnxqSw)](https://www.youtube.com/channel/UCwmPr4S5IoSGUEVxLvnxqSw)
 # 📌 Career
@@ -90,7 +88,7 @@ Techs that I've used at least once
 
 mjkmain20@gmail.com
 ###
-[![Badge](http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/)](https://www.instagram.com/iamminjun/) 
+
 
 ###
 # Grade
@@ -102,6 +100,7 @@ mjkmain20@gmail.com
 |    *3rd year*    |
 |    *4th year*    |
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjkmain&layout=compact&theme=tokyonight)
 
-###
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mjkmain)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mjkmain&layout=compact&theme=tokyonight)
