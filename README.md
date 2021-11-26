@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=mjkmain&fontSize=70)
-<div align="center">
+<div align="center"><h2>
     Hello My name is Minjun Kim, I interested in Computer Science and Mathematics.
 </div>
 
