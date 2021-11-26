@@ -15,16 +15,31 @@
 * ### Youtube :  [![Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCwmPr4S5IoSGUEVxLvnxqSw)](https://www.youtube.com/channel/UCwmPr4S5IoSGUEVxLvnxqSw)
 # 📌 Career
 
-|     Date      |         Type        |          Contents         |                  Organization                 |                     Details               |
-|:-------------:|:-------------------:|:-------------------------:|:---------------------------------------------:|:----------------------------------------:|
-|  2021.09 ~ 2021.12| Teaching Assistant | Deep-learning class        | Department of Computer Engineering,Hanbat Nat'l Univ.| T.A. of Deep-learning class   (prof. K.T.Lim)|
-|  2021.08      | Special Lecture    | Jetbot, NVIDIA             | Department of Computer Engineering,Hanbat Nat'l Univ.| T.A. of using AI with Jetbot Class (prof. K.T.Lim)|
-|  2021.07~ 2021.08 | Research Activities| Predict Neuclear risk using Bayesian Network| ADD(Agency for Defense Development)| Confidential                       |
-|  2021.06 ~    | Join Lab.          |     AI Researcher         |AAI Lab. (prof K.T.Lim), Hanbat Nat'l Univ.     |  Join "Applied Artificial Inteligence (AAI) Lab."  Research Topic : NLP    https://sites.google.com/view/aailab                |
+* AAI Lab. activities
+###
+|     *Date*      |         *Type*        |          *Contents*         |   *Details* |
+|:-------------:|:-------------------:|:-------------------------:|:----------:|
+|  2021.07      | Joined Lab.         |  AI Researcher | Join "Applied Artificial Inteligence (AAI) Lab."  Research Topic : NLP    https://sites.google.com/view/aailab |
+|  2021.07 ~    | Seminar             | Seminar about AI | Study ML, DL | 
+|  2021.07~ 2021.08 | Research Activities| Predict Neuclear risk using Bayesian Network (ADD)|  Confidential                       |
+|  2021.08      | Special Lecture    | Jetbot, NVIDIA             |  T.A. of using AI with Jetbot Class (prof. K.T.Lim)|
+|  2021.09 ~ 2021.12| Teaching Assistant | Deep-learning class        | T.A. of Deep-learning class   (prof. K.T.Lim)|
+
+* Institute for Applied Mathematics and Optics activities
+
+###
+|     *Date*      |         *Type*        |          *Contents*         |   *Details* |
+|:-------------:|:-------------------:|:-------------------------:|:----------:|
+|  2021.01   | Join Lab.          |       XAI Researcher      | Join "Institute for Applied Mathematics and Optics"  Research Topic : Optimize the Tikhonov Regularization Parameter|
+|2021.01 ~| Research Activities|       Tikhonov Regularization Research |  Research Topic : Ill-posed inverse problem  Spcecifically, Optimize Tikhonov Regularization parameter using XAI|
+
+* Personal highlight
+
+###
+|     *Date*      |         *Type*        |          *Contents*         | *Organization*|  *Details* |
+|:-------------:|:-------------------:|:-------------------------:|:----------:|:----------:|
 |  2021.03 ~    |       Education    |    Department of Computer Engineering |          Hanbat National University            |                       -                  |
 |  2021.03 ~ 2021.07| Mentorship | Math Assistant | Nomad College, Hanbat Nat'l Univ. | T.A. of Calculus1, Calculus2, Linear Algebra, Differential equation|
-|  2021.01.10 ~ | Research Activities|       Tikhonov Regularization Research |  Applied Mathematics Lab,  Hanbat Nat’l Univ. | Research Topic : Ill-posed inverse problem  specifically, Optimize Tikhonov Regularization parameter using XAI|
-|  2021.01.09   | Join Lab.          |       XAI Researcher      |   Applied Mathematics Lab,  Hanbat Nat’l Univ.| Join "Institute for Applied Mathematics and Optics"  Research Topic : Optimize the Tikhonov Regularization Parameter|
 |  2020.12.11   |        Award       |        Bronze Award       |           Korean Mathematical Society          | Bronze award, Korea University Student Contest of Methematics |
 |  2018.03 ~ 2021.02   |    Education    |Department of Civil and Environmental Engineering|Hanbat National University|            -            |
 
