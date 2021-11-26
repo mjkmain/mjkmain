@@ -29,7 +29,7 @@
 |:-------------:|:-------------------:|:-------------------------:|:----------:|
 |  2021.07      | Joined Lab.         |  AI Researcher | Join "Applied Artificial Inteligence (AAI) Lab."  Research Topic : NLP    https://sites.google.com/view/aailab |
 |  2021.07 ~    | Seminar             | Seminar about AI | Study ML, DL [AAI Seminar](https://github.com/mjkmain/AAI-Seminar) | 
-|  2021.07~ 2021.08 | Research Activities| Predict Neuclear risk using Bayesian Network (ADD)|  Confidential                       |
+|  2021.07~ 2021.08 | Research Activities| Predict Neuclear risk using Bayesian Network | Work for ADD, ~~Confidential~~                       |
 |  2021.08      | Special Lecture    | Jetbot, NVIDIA             |  T.A. of using AI with Jetbot Class (prof. K.T.Lim)|
 |  2021.09 ~ 2021.12| Teaching Assistant | Deep-learning class        | T.A. of Deep-learning class   (prof. K.T.Lim)|
 ###
