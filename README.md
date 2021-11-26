@@ -102,6 +102,8 @@ Techs that I've used at least once
 ![Stack](https://img.shields.io/badge/eclipse-191970?style=flat-square&logo=eclipse&logoColor=white)
 ![Stack](https://img.shields.io/badge/pycharm-AFEEEE?style=flat-square&logo=pycharm&logoColor=black)
 ###
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjkmain&layout=compact&theme=tokyonight)
+###
 # 📬 Contacts
 
 mjkmain20@gmail.com
@@ -118,7 +120,7 @@ mjkmain20@gmail.com
 |    *3rd year*    |
 |    *4th year*    |
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjkmain&layout=compact&theme=tokyonight)
+
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mjkmain&layout=compact&theme=tokyonight)
