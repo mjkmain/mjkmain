@@ -130,7 +130,7 @@ mjkmain20@gmail.com
 |    *Semester*  |      *Spring*         |       *Summer*     |       *Fall*      |       *Winter*       |      
 |:-------------:|:-------------------:|:-------------------:|:-------------------:|:-------------------:|
 |    *1st year*    | ![Grade](https://img.shields.io/badge/grade-4.36%2F4.5-blue)| ![Grade](https://img.shields.io/badge/grade-4.5%2F4.5-blue)| ![Grade](https://img.shields.io/badge/grade-4.38%2F4.5-blue)| - |
-|    *2nd year*    | ![Grade](https://img.shields.io/badge/grade-4.5%2F4.5-blue) | 
+|    *2nd year*    | ![Grade](https://img.shields.io/badge/grade-4.5%2F4.5-blue) | - | ![Grade](https://img.shields.io/badge/grade-4.5%2F4.5-blue)| - |
 |    *3rd year*    |
 |    *4th year*    |
 
