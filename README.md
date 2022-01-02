@@ -56,7 +56,7 @@
 ###
 |     *Date*      |         *Type*        |          *Contents*         | *Organization*|  *Details* |
 |:-------------:|:-------------------:|:-------------------------:|:----------:|:----------:|
-|  2021.12.21   |       Award       |       1st place award(최우수상) | Hanbat Nat'l Univ. Big data AI Center       |  유성구청장상   | 
+|  2021.12.21   |       Award       |       1st place award(최우수상) | Hanbat Nat'l Univ. Big data AI Center       |  University student competition of Big Data Analysis -     | 
 |  2021.03 ~    |       Education    |    Department of Computer Engineering |          Hanbat National University            |                       -                  |
 |  2021.03 ~ 2021.07| Mentorship | Math Assistant | Nomad College, Hanbat Nat'l Univ. | T.A. of Calculus1, Calculus2, Linear Algebra, Differential equation|
 |  2020.12.11   |        Award       |        Bronze Award       |           Korean Mathematical Society          | Bronze award, Korea University Student Contest of Methematics |
