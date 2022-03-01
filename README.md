@@ -5,13 +5,27 @@
 
 
 
-# :boy: profile
+### :boy: profile
   * ### Nationality : Republic of Korea
   * ### Birth : 1998
   * ### Major : Computer engineering 
-
     
- # ☑️ Research activities
+# 
+    
+### 🌟 Interests
+
+- ### Computer Science
+  * NLP
+
+- ### Mathematics 
+  * Ill-posed inverse problem
+  * Optimize Tikhonov Regularization Parameter (L2 Regularization)
+  * analysis
+
+- ### Programming
+  * Python
+# 
+ ### ☑️ Research activities
 
 <div align="center"><strong>
     AAI Lab. 
@@ -39,28 +53,19 @@
 |2021.01 ~| Research Activities|       Tikhonov Regularization Research |  Research Topic : Ill-posed inverse problem  Spcecifically, Optimize Tikhonov Regularization parameter using XAI|
 
 ###
-
-
-# 🌟 Interests
-
-- ### Computer Science
-  * NLP
-
-- ### Mathematics 
-  * Ill-posed inverse problem
-  * Optimize Tikhonov Regularization Parameter (L2 Regularization)
-  * analysis
-
-- ### Programming
-  * Python
-
-
+# 
+### competitions
+* AI-spark challenge : object detection (43/225, top 19%)  
+    http://aifactory.space/competition/leaderboard/1946
+* DACON : NLI (23/467, top 4.9%)  
+    https://dacon.io/competitions/official/235875/leaderboard
 ###
-# :trophy: Awards
+### :trophy: Awards
   * 🥉 won the third prize at 39th University Students Contest of Mathematics Part II (제 39회 대학생 수학 경시대회 II분야 동상)
     - link : https://www.kms.or.kr/board/list.html?code=conf13&num=15897
   * 🥇 won the first prize (최우수상) at the University Student competition of Big Data Analysis 
 ###
+# 
 <!--
 # 🌠 Tech Stacks
 
@@ -90,14 +95,14 @@ Techs that I've used at least once
 ###
 -->
 
-# 📬 Contacts
+### 📬 Contacts
 
 mjkmain20@gmail.com
 ###
 ###
 
 ###
-# Grade
+### Grade
 
 |    *Semester*  |      *Spring*         |       *Summer*     |       *Fall*      |       *Winter*       |      
 |:-------------:|:-------------------:|:-------------------:|:-------------------:|:-------------------:|
@@ -106,7 +111,7 @@ mjkmain20@gmail.com
 |    *3rd year*    |
 |    *4th year*    |
 
-
+# 
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mjkmain&layout=compact&theme=tokyonight)
