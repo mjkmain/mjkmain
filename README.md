@@ -67,14 +67,6 @@
 
 - ### Computer Science
   * NLP
-  * XAI
-  * Computer Vision
-  * Auto ML
-  * MLOps
-  
-- ### XAI
-  * find optimal function which have same mapping with Balck-Box  
-  * Specifically, I want use XAI for find best parameter of Tikhonov Regularization (L2 Regularization)
 
 - ### Mathematics 
   * Ill-posed inverse problem
@@ -84,8 +76,6 @@
 - ### Programming
   * Python
 
-- ### Drone
-  * Reinforcement Learning 
 
 ###
 # :trophy: Awards
@@ -93,7 +83,7 @@
     - link : https://www.kms.or.kr/board/list.html?code=conf13&num=15897
   * 🥇 won the first prize (최우수상) at the University Student competition of Big Data Analysis 
 ###
-
+<!--
 # 🌠 Tech Stacks
 
 Techs that I've used at least once
@@ -120,6 +110,8 @@ Techs that I've used at least once
 ###
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjkmain&layout=compact&theme=tokyonight)
 ###
+-->
+
 # 📬 Contacts
 
 mjkmain20@gmail.com
