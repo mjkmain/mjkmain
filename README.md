@@ -10,13 +10,6 @@
   * ### Birth : 1998
   * ### Major : Computer engineering 
 
-###
-# 📛 Website
-
-* ### Tistory Tech Blog : [![Badge](http://img.shields.io/badge/-Tistory%20Tech%20Blog-brightgreen?style=flat&logo=Tistory&link=https://alpox.kr)](https://deep-learning-challenge.tistory.com/)
-
-* ### Youtube :  [![Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCwmPr4S5IoSGUEVxLvnxqSw)](https://www.youtube.com/channel/UCwmPr4S5IoSGUEVxLvnxqSw)
-
     
  # ☑️ Research activities
 
@@ -46,21 +39,6 @@
 |2021.01 ~| Research Activities|       Tikhonov Regularization Research |  Research Topic : Ill-posed inverse problem  Spcecifically, Optimize Tikhonov Regularization parameter using XAI|
 
 ###
-
-# 📌 Career
-    
-<div align="center"><strong>
-    
-</div>
-
-###
-|     *Date*      |         *Type*        |          *Contents*         | *Organization*|  *Details* |
-|:-------------:|:-------------------:|:-------------------------:|:----------:|:----------:|
-|  2021.12.21   |       Award       |       1st place award(최우수상) | Hanbat Nat'l Univ. Big data AI Center       |  University student competition of Big Data Analysis -     | 
-|  2021.03 ~    |       Education    |    Department of Computer Engineering |          Hanbat National University            |                       -                  |
-|  2021.03 ~ 2021.07| Mentorship | Math Assistant | Nomad College, Hanbat Nat'l Univ. | T.A. of Calculus1, Calculus2, Linear Algebra, Differential equation|
-|  2020.12.11   |        Award       |        Bronze Award       |           Korean Mathematical Society          | Bronze award, Korea University Student Contest of Methematics |
-
 
 
 # 🌟 Interests
