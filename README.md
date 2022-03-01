@@ -60,7 +60,7 @@
 |  2021.03 ~    |       Education    |    Department of Computer Engineering |          Hanbat National University            |                       -                  |
 |  2021.03 ~ 2021.07| Mentorship | Math Assistant | Nomad College, Hanbat Nat'l Univ. | T.A. of Calculus1, Calculus2, Linear Algebra, Differential equation|
 |  2020.12.11   |        Award       |        Bronze Award       |           Korean Mathematical Society          | Bronze award, Korea University Student Contest of Methematics |
-|  2018.03 ~ 2021.02   |    Education    |Department of Civil and Environmental Engineering|Hanbat National University|            -            |
+
 
 
 # 🌟 Interests
