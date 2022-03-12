@@ -63,7 +63,7 @@
 ### :trophy: Awards
   * 🥉 Won the third prize at 39th University Students Contest of Mathematics Part II (제 39회 대학생 수학 경시대회 II분야 동상)
     - link : https://www.kms.or.kr/board/list.html?code=conf13&num=15897
-    - link : https://www.hanbat.ac.kr/prog/bbsArticle/BBSMSTR_000000000055/view.do?nttId=B000000082700Sc9wZ8l&mno=sub07_0404
+
     - [수상자 명단](https://www.kms.or.kr/inc/attach_download.php?r_name=3537553923_277c5c66_2EBB684EC95BC+EC8898EC8381EC9E90_EAB3B5ECA780EC9AA9.pdf&f_name=2%EB%B6%84%EC%95%BC+%EC%88%98%EC%83%81%EC%9E%90_%EA%B3%B5%EC%A7%80%EC%9A%A9.pdf)
     
   * 🥇 Won the first prize (최우수상) at the University Student competition of Big Data Analysis 
