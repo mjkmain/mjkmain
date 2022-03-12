@@ -16,6 +16,10 @@
 
 - ### Computer Science
   * NLP
+    * NLI
+  * CV
+  *VQA
+  
 
 - ### Mathematics 
   * Ill-posed inverse problem
