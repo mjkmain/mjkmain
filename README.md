@@ -64,6 +64,7 @@
   * 🥉 won the third prize at 39th University Students Contest of Mathematics Part II (제 39회 대학생 수학 경시대회 II분야 동상)
     - link : https://www.kms.or.kr/board/list.html?code=conf13&num=15897
   * 🥇 won the first prize (최우수상) at the University Student competition of Big Data Analysis 
+    - link : http://m.thesegye.com/news/newsview.php?ncode=1065609379170316
 ###
 # 
 <!--
