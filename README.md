@@ -44,7 +44,10 @@
 |  2021.08      | Special Lecture    | Jetbot, NVIDIA             |  T.A. of using AI with Jetbot Class (prof. K.T.Lim)|
 |  2021.09 ~ 2021.12| Teaching Assistant | Deep-learning class        | T.A. of Deep-learning class   (prof. K.T.Lim)|
 ###
-
+  
+      
+      
+      
 
 <div align="center"><strong>
     Institute for Applied Mathematics and Optics
