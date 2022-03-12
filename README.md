@@ -18,7 +18,7 @@
   * NLP
     * NLI
   * CV
-  *VQA
+  * VQA
   
 
 - ### Mathematics 
