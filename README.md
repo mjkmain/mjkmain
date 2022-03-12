@@ -108,7 +108,7 @@ mjkmain20@gmail.com
 
 ###
 ### Grade
-### Take 79 credits, GPA : 4.42/4.5    (Major 4.5/4.5)
+### _Take 79 credits, GPA : 4.42/4.5 &nbsp;&nbsp;  (Major 4.5/4.5)_
 
 |    *Semester*  |      *Spring*         |       *Summer*     |       *Fall*      |       *Winter*       |      
 |:-------------:|:-------------------:|:-------------------:|:-------------------:|:-------------------:|
