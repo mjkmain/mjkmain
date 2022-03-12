@@ -55,9 +55,9 @@
 ###
 # 
 ### competitions
-* AI-spark challenge : object detection (43/225, top 19%), Team name "AAIM"
+* AI-spark challenge : object detection (43/225, top 19%), [Team name : "AAIM"]  
     http://aifactory.space/competition/leaderboard/1946
-* DACON : NLI (23/467, top 4.9%), Team name "교수님GPU사주세요"  
+* DACON : NLI (23/467, top 4.9%), [Team name : "교수님GPU사주세요"]  
     https://dacon.io/competitions/official/235875/leaderboard
 ###
 ### :trophy: Awards
