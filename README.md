@@ -9,6 +9,7 @@
   * ### Nationality : Republic of Korea
   * ### Birth : 1998
   * ### Major : Computer engineering 
+  ### [Blog](https://deep-learning-challenge.tistory.com/)
 
 # 
     
