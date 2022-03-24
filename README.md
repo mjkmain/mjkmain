@@ -108,7 +108,7 @@ Techs that I've used at least once
 ###
 -->
 
-### 📬 Contacts
+### 📬 Contact
 
 mjkmain20@gmail.com
 ###
