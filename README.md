@@ -20,7 +20,7 @@
     * NLI
   * CV
   * VQA
-  
+  * multimodal deep learning
 
 - ### Mathematics 
   * Ill-posed inverse problem
