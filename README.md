@@ -40,12 +40,12 @@
 ###
 |     *Date*      |         *Type*        |          *Contents*         |   *Details* |
 |:-------------:|:-------------------:|:-------------------------:|:----------:|
-|  2022.04 ~     | Join Lab. (Research Intern)         |  AI Researcher | Join "Language Intelligence Lab."  Research Topic : Common Sense Reasoning, UNIST  |
+|  2022.04 ~     | Join Lab. (Research Intern)         |  Undergraduate Researcher | Join "Language Intelligence Lab."  <br> Research Topic : Common Sense Reasoning, UNIST  |
 ###
 
 <!--     [SITE](https://sites.google.com/view/language-intelligence-lab) -->
  
- 
+
     
 <div align="center"><strong>
     AAI Lab. 
@@ -54,7 +54,7 @@
 ###
 |     *Date*      |         *Type*        |          *Contents*         |   *Details* |
 |:-------------:|:-------------------:|:-------------------------:|:----------:|
-|  2021.07      | Join Lab.         |  AI Researcher | Join "Applied Artificial Inteligence (AAI) Lab."  Research Topic : NLP, Hanbat Univ. [SITE](https://sites.google.com/view/aailab) |
+|  2021.07      | Join Lab.         |  Undergraduate Researcher | Join "Applied Artificial Inteligence (AAI) Lab."  Research Topic : NLP, Hanbat Univ. [SITE](https://sites.google.com/view/aailab) |
 |  2021.07 ~    | Seminar             | Seminar about AI | Study ML, DL [AAI Seminar](https://github.com/mjkmain/AAI-Seminar) | 
 |  2021.07~ 2021.08 | Research Activities| Predict Neuclear risk using Bayesian Network | Work for ADD(Agency for Defense Development)                      |
 |  2021.08      | Special Lecture    | Jetbot, NVIDIA             |  T.A. of using AI with Jetbot Class (prof. K.T.Lim)|
@@ -72,8 +72,8 @@
 ###
 |     *Date*      |         *Type*        |          *Contents*         |   *Details* |
 |:-------------:|:-------------------:|:-------------------------:|:----------:|
-|  2021.01   | Join Lab.          |       XAI Researcher      | Join "Institute for Applied Mathematics and Optics"  Research Topic : Optimize the Tikhonov Regularization Parameter, Hanbat Univ.|
-|2021.01 ~| Research Activities|       Tikhonov Regularization Research |  Research Topic : Ill-posed inverse problem  Spcecifically, Optimize Tikhonov Regularization parameter using XAI|
+|  2021.01   | Join Lab.          |       Undergraduate Researcher      | Join "Institute for Applied Mathematics and Optics"  Research Topic : Optimize the Tikhonov Regularization Parameter, Hanbat Univ.|
+|2021.01 ~| Research Activities|  Tikhonov Regularization Research |  Research Topic : Ill-posed inverse problem  Spcecifically, Optimize Tikhonov Regularization parameter using XAI|
 
 ###
 # 
