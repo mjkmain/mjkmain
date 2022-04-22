@@ -57,14 +57,8 @@
 |  2021.07      | Join Lab.         |  Undergraduate Researcher | Join "Applied Artificial Inteligence (AAI) Lab."  Research Topic : NLP, Hanbat Univ. [SITE](https://sites.google.com/view/aailab) |
 |  2021.07 ~    | Seminar             | Seminar about AI | Study ML, DL [AAI Seminar](https://github.com/mjkmain/AAI-Seminar) | 
 |  2021.07~ 2021.08 | Research Activities| Predict Neuclear risk using Bayesian Network | Work for ADD(Agency for Defense Development)                      |
-|  2021.08      | Special Lecture    | Jetbot, NVIDIA             |  T.A. of using AI with Jetbot Class (prof. K.T.Lim)|
-|  2021.09 ~ 2021.12| Teaching Assistant | Deep-learning class        | T.A. of Deep-learning class   (prof. K.T.Lim)|
 ###
   
-      
-      
-      
-
 <div align="center"><strong>
     Institute for Applied Mathematics and Optics
 </div>
@@ -76,6 +70,16 @@
 |2021.01 ~| Research Activities|  Tikhonov Regularization Research |  Research Topic : Ill-posed inverse problem  Spcecifically, Optimize Tikhonov Regularization parameter using XAI|
 
 ###
+#
+### 👨‍🏫 Teaching Experience
+
+|     *Date*      |         *Class*   |        *Details*      | *Professor* |
+|:-------------:|:-------------------:|:---------------------:|:------------:|
+|Mar. 2022 ~ Present| Operating System | CE 2nd grade class | K.T. Lim|
+|Jan. 2022      | Artifitial Intelligence Course| AI Intensive Training Course| K.T.Lim, H.E.Jang|
+|Sep.2021~Dec.2021| Deep Learning    |  CE 4th grade class | K.T.Lim |
+    
+    
 # 
 ### Competitions
 * AI-spark challenge : object detection (43/225, top 19%), [Team name : "AAIM"]  
