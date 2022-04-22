@@ -95,7 +95,7 @@
     - [제 39회 대수경](https://www.kms.or.kr/board/list.html?num=15055&start=0&sort=top%20desc,%20reg_dt%20desc&code=conf11&tcode=&key=&keyword=)
     - [수상자 명단](https://www.kms.or.kr/inc/attach_download.php?r_name=3537553923_277c5c66_2EBB684EC95BC+EC8898EC8381EC9E90_EAB3B5ECA780EC9AA9.pdf&f_name=2%EB%B6%84%EC%95%BC+%EC%88%98%EC%83%81%EC%9E%90_%EA%B3%B5%EC%A7%80%EC%9A%A9.pdf)
     
-  * 🥇 Won the first prize (최우수상) at the University Student competition of Big Data Analysis 
+  * 🥇 Won The Most Excellence prize at the University Student competition of Big Data Analysis 
     - link : http://m.thesegye.com/news/newsview.php?ncode=1065609379170316
     
     
