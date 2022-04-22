@@ -40,9 +40,10 @@
 ###
 |     *Date*      |         *Type*        |          *Contents*         |   *Details* |
 |:-------------:|:-------------------:|:-------------------------:|:----------:|
-|  2022.04 ~     | Join Lab. (Research Intern)         |  AI Researcher | Join "Language Intelligence Lab."  Research Topic : Common Sense Reasoning, UNIST [SITE](https://sites.google.com/view/language-intelligence-lab) |
+|  2022.04 ~     | Join Lab. (Research Intern)         |  AI Researcher | Join "Language Intelligence Lab."  Research Topic : Common Sense Reasoning, UNIST  |
 ###
 
+<!--     [SITE](https://sites.google.com/view/language-intelligence-lab) -->
  
  
     
