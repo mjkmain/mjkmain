@@ -39,8 +39,8 @@
 
 ###
 |     *Date*      |         *Type*        |          *Contents*         |   *Details* |
-|:-------------:|:-------------------:|:-------------------------:|:----------:|
-|  2022.04 ~     | Join Lab. (Research Intern)         |  Undergraduate Researcher | Join "Language Intelligence Lab."  <br> Research Topic : Common Sense Reasoning, UNIST  |
+|:-----------------:|:-------------------:|:-------------------------:|:----------------:|
+|  2022.04 ~     | Join Lab.<br> (Research Intern)         |  Undergraduate Researcher | Join "Language Intelligence Lab."  <br> Research Topic : Common Sense Reasoning, UNIST  |
 ###
 
 <!--     [SITE](https://sites.google.com/view/language-intelligence-lab) -->
@@ -56,7 +56,7 @@
 |:-------------:|:-------------------:|:-------------------------:|:----------:|
 |  2021.07      | Join Lab.         |  Undergraduate Researcher | Join "Applied Artificial Inteligence (AAI) Lab."  Research Topic : NLP, Hanbat Univ. [SITE](https://sites.google.com/view/aailab) |
 |  2021.07 ~    | Seminar             | Seminar about AI | Study ML, DL [AAI Seminar](https://github.com/mjkmain/AAI-Seminar) | 
-|  2021.07~ 2021.08 | Research Activities| Predict Neuclear risk using Bayesian Network | Work for ADD(Agency for Defense Development)                      |
+|  2021.07~ 2021.08 | Research Activities| Predict Neuclear risk using Bayesian Network | Work for ADD(Agency for Defense Development)  |
 ###
   
 <div align="center"><strong>
@@ -78,6 +78,8 @@
 |Mar. 2022 ~ Present| Operating System | CE 2nd grade class | K.T. Lim|
 |Jan. 2022      | Artifitial Intelligence Course| AI Intensive Training Course| K.T.Lim, H.E.Jang|
 |Sep.2021~Dec.2021| Deep Learning    |  CE 4th grade class | K.T.Lim |
+|Mar.2021~Jun.2021| Math Clinic |Math Tutor| Dept. of  basic science|
+    
     
     
 # 
