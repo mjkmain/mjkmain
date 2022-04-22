@@ -54,9 +54,10 @@
 ###
 |     *Date*      |         *Type*        |          *Contents*         |   *Details* |
 |:-------------:|:-------------------:|:-------------------------:|:----------:|
-|  2021.07      | Join Lab.         |  Undergraduate Researcher | Join "Applied Artificial Inteligence (AAI) Lab."  Research Topic : NLP, Hanbat Univ. [SITE](https://sites.google.com/view/aailab) |
-|  2021.07 ~    | Seminar             | Seminar about AI | Study ML, DL [AAI Seminar](https://github.com/mjkmain/AAI-Seminar) | 
-|  2021.07~ 2021.08 | Research Activities| Predict Neuclear risk using Bayesian Network | Work for ADD(Agency for Defense Development)  |
+|  Jul.2021      | Join Lab.         |  Undergraduate Researcher | Join "Applied Artificial Inteligence (AAI) Lab."  Research Topic : NLP, Hanbat Univ. [SITE](https://sites.google.com/view/aailab) |
+|  Jul.2021 ~    | Seminar             | Seminar about AI | Study ML, DL [AAI Seminar](https://github.com/mjkmain/AAI-Seminar) | 
+|  Jul.2021 ~ Aug.2021 | Research Activities | Predict Neuclear risk using Bayesian Network | Work for ADD(Agency for Defense Development)  |
+|  Jan.2022 ~ Apr.2022 | Research Activities |  Machine Control Using Visual Question Answering | Work for CNU.ICT |
 ###
   
 <div align="center"><strong>
