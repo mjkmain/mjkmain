@@ -31,7 +31,7 @@
 - ### Programming
   * Python
 # 
- ### ☑️ Internship
+ ### 💼 Internship
 
 <div align="center"><strong>
     LI Lab. 
