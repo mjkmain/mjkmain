@@ -40,7 +40,7 @@
 ###
 |     *Date*      |         *Type*        |          *Contents*         |   *Details* |
 |:-----------------:|:-------------------:|:-------------------------:|:----------------:|
-|  2022.04 ~     | Join Lab.<br> (Research Intern)         |  Undergraduate Researcher | Join "Language Intelligence Lab."  <br> Research Topic : Common Sense Reasoning, UNIST  |
+|  Apr.2022 ~     | Join Lab.<br> (Research Intern)         |  Undergraduate Researcher | Join "Language Intelligence Lab."  <br> Research Topic : Common Sense Reasoning, UNIST  |
 ###
 
 <!--     [SITE](https://sites.google.com/view/language-intelligence-lab) -->
@@ -67,8 +67,8 @@
 ###
 |     *Date*      |         *Type*        |          *Contents*         |   *Details* |
 |:-------------:|:-------------------:|:-------------------------:|:----------:|
-|  2021.01   | Join Lab.          |       Undergraduate Researcher      | Join "Institute for Applied Mathematics and Optics"  Research Topic : Optimize the Tikhonov Regularization Parameter, Hanbat Univ.|
-|2021.01 ~| Research Activities|  Tikhonov Regularization Research |  Research Topic : Ill-posed inverse problem  Spcecifically, Optimize Tikhonov Regularization parameter using XAI|
+|  Jan.2021   | Join Lab.          |       Undergraduate Researcher      | Join "Institute for Applied Mathematics and Optics"  Research Topic : Optimize the Tikhonov Regularization Parameter, Hanbat Univ.|
+| Jan.2021 ~| Research Activities|  Tikhonov Regularization Research |  Research Topic : Ill-posed inverse problem  Spcecifically, Optimize Tikhonov Regularization parameter using XAI|
 
 ###
 #
