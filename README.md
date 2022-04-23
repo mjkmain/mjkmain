@@ -68,7 +68,7 @@
 |     *Date*      |         *Type*        |          *Contents*         |   *Details* |
 |:-------------:|:-------------------:|:-------------------------:|:----------:|
 |  Jan.2021   | Join Lab.          |       Undergraduate Researcher      | Join "Institute for Applied Mathematics and Optics"  Research Topic : Optimize the Tikhonov Regularization Parameter, Hanbat Univ.|
-| Jan.2021 ~| Research Activities|  Tikhonov Regularization Research |  Research Topic : Ill-posed inverse problem  Spcecifically, Optimize Tikhonov Regularization parameter using XAI|
+| Jan.2021 ~ Apr.2022| Research Activities|  Tikhonov Regularization Research |  Research Topic : Ill-posed inverse problem  Spcecifically, Optimize Tikhonov Regularization parameter using XAI|
 
 ###
 #
