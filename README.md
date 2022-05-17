@@ -107,8 +107,8 @@
 |:-------------:|:-------------------:|:------------------:|
 | 2020.08    |  Senior Scholarship | * |
 | 2021.02    |  Senior Scholarship | * |
-| 2021.08    |  Senior Scholarship | 학년 수석|
-| 2022.02    |  Senior Scholarship | 학년 수석|
+| 2021.08    |  Senior Scholarship | * |
+| 2022.02    |  Senior Scholarship | * |
 <!-- | 2022.06    | Presidential Science Scholarship | 대통령 과학 장학금(예정) | -->
 
 #
