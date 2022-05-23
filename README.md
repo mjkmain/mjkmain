@@ -162,3 +162,5 @@ mjkmain20@gmail.com
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmjkmain&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mjkmain&layout=compact&theme=tokyonight)
+    
+    https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=301663887488-0oa8f6t8vnbd6962aa58m7gonub4ek3j.apps.googleusercontent.com&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fassistant-sdk-prototype&state=oYOyfUH0FR33irrXjacVKWMeLUZxbE&prompt=consent&access_type=offline
