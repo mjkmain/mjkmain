@@ -163,4 +163,3 @@ mjkmain20@gmail.com
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mjkmain&layout=compact&theme=tokyonight)
     
-    https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=301663887488-0oa8f6t8vnbd6962aa58m7gonub4ek3j.apps.googleusercontent.com&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fassistant-sdk-prototype&state=oYOyfUH0FR33irrXjacVKWMeLUZxbE&prompt=consent&access_type=offline
