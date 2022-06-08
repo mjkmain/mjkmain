@@ -105,10 +105,11 @@
 ### Scholarshpis
 |     *Date*      |   *name*          |   *Details*      | 
 |:-------------:|:-------------------:|:------------------:|
-| 2020.08    |  Senior Scholarship | * |
-| 2021.02    |  Senior Scholarship | * |
-| 2021.08    |  Senior Scholarship | * |
-| 2022.02    |  Senior Scholarship | * |
+| Fall 2020   |  Senior Scholarship | * |
+| Spring 2021    |  Senior Scholarship | * |
+| Fall 2021    |  Senior Scholarship | * |
+| Spring 2022    |  Senior Scholarship | * |
+| Spring 2022    |National Science and Technology Scholarship |Korea Student Aid Foundation |
 <!-- | 2022.06    | Presidential Science Scholarship | 대통령 과학 장학금(예정) | -->
 
 #
