@@ -25,7 +25,7 @@
 
 - ### Mathematics 
   * Ill-posed inverse problem
-  * Optimize Tikhonov Regularization Parameter (L2 Regularization)
+  * Optimize Tikhonov Regularization Parameter
   * Analysis
 
 - ### Programming
