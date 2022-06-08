@@ -105,10 +105,10 @@
 ### Scholarshpis
 |     *Date*      |   *name*          |   *Details*      | 
 |:-------------:|:-------------------:|:------------------:|
-| Fall 2020   |  Senior Scholarship | * |
-| Spring 2021    |  Senior Scholarship | * |
-| Fall 2021    |  Senior Scholarship | * |
-| Spring 2022    |  Senior Scholarship | * |
+| Fall 2020   |  Senior Scholarship | Hanbat university |
+| Spring 2021    |  Senior Scholarship | Hanbat university |
+| Fall 2021    |  Senior Scholarship | Hanbat university |
+| Spring 2022    |  Senior Scholarship | Hanbat university |
 | Spring 2022    |National Science and Technology Scholarship |Korea Student Aid Foundation |
 <!-- | 2022.06    | Presidential Science Scholarship | 대통령 과학 장학금(예정) | -->
 
