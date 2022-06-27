@@ -109,7 +109,6 @@
 | Spring 2021    |  Senior Scholarship | Hanbat university |
 | Fall 2021    |  Senior Scholarship | Hanbat university |
 | Spring 2022    |  Senior Scholarship | Hanbat university |
-| Spring 2022    |National Science and Technology Scholarship |Korea Student Aid Foundation |
 | Spring 2022    | Presidential Science Scholarship <br>(대통령 과학 장학금)| Korea Student Aid Foundation |
 
 #
@@ -156,7 +155,7 @@ mjkmain20@gmail.com
 |:-------------:|:-------------------:|:-------------------:|:-------------------:|:-------------------:|
 |    *1st year*    | ![Grade](https://img.shields.io/badge/grade-4.36%2F4.5-blue)| ![Grade](https://img.shields.io/badge/grade-4.5%2F4.5-blue)| ![Grade](https://img.shields.io/badge/grade-4.38%2F4.5-blue)| - |
 |    *2nd year*    | ![Grade](https://img.shields.io/badge/grade-4.5%2F4.5-blue) | - | ![Grade](https://img.shields.io/badge/grade-4.5%2F4.5-blue)| - |
-|    *3rd year*    |
+|    *3rd year*    |![Grade](https://img.shields.io/badge/grade-4.5%2F4.5-blue)
 |    *4th year*    |
 
 # 
