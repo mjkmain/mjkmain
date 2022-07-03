@@ -76,9 +76,9 @@
 
 |     *Date*      |         *Class*   |        *Details*      | *Professor* |
 |:-------------:|:-------------------:|:---------------------:|:------------:|
-|Mar. 2022 ~ Present| Operating System | CE 2nd grade class | K.T. Lim|
-|Jan. 2022      | Artifitial Intelligence Course| AI Intensive Training Course| K.T.Lim, H.E.Jang|
-|Sep.2021~Dec.2021| Deep Learning    |  CE 4th grade class | K.T.Lim |
+|Mar.2022 ~ Jun. 2022| Operating System | C.E. 2nd grade class | K.T. Lim|
+|Jan.2022      | Artifitial Intelligence Course| AI Intensive Training Course| K.T.Lim, H.E.Jang|
+|Sep.2021~Dec.2021| Deep Learning    |  C.E. 4th grade class | K.T.Lim |
 |Mar.2021~Jun.2021| Math Clinic |Math Tutor| Dept. of  basic science|
     
     
