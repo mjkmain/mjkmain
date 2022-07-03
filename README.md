@@ -109,7 +109,7 @@
 | Spring 2021    |  Senior Scholarship | Hanbat university |
 | Fall 2021    |  Senior Scholarship | Hanbat university |
 | Spring 2022    |  Senior Scholarship | Hanbat university |
-| Spring 2022    | Presidential Science Scholarship <br>(대통령 과학 장학금)| Korea Student Aid Foundation |
+| Spring 2022    | Presidential Science Scholarship <br>(대통령 과학 장학금)| Korea Student Aid Foundation [Link](https://www.news1.kr/articles/?4727983)|
 
 #
 <!--
