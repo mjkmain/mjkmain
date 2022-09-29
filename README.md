@@ -4,7 +4,6 @@
 </div>
 
 
-
 ### profile
   * ### Nationality : Republic of Korea
   * ### Birth : 1998
