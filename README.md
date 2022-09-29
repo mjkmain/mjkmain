@@ -37,6 +37,7 @@
     LI Lab. 
 </div>
 
+<!--
 ###
 |     *Date*      |         *Type*        |          *Contents*         |   *Details* |
 |:-------------:|:-------------------:|:-------------------------:|:----------:|
@@ -44,7 +45,7 @@
 ###
 
 <!--     [SITE](https://sites.google.com/view/language-intelligence-lab) -->
- 
+ -->
 
     
 <div align="center"><strong>
