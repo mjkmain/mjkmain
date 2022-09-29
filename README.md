@@ -59,7 +59,7 @@
 |  Jul.2021 ~    | Seminar             | Seminar about AI | Study ML, DL <br>[AAI Lab. Seminar](https://github.com/mjkmain/AAI-Seminar) | 
 |  Jul.2021 ~ Aug.2021 | Research Activities | Predict Neuclear risk using Bayesian Network | Work for KAERI(Korea Atomic Energy Research Institute)  |
 |  Jan.2022 ~ Apr.2022 | Research Activities |  *Visual Question Answering* | CNU.ICT |
-|  Jun.2022 ~ present  | Research Activities |  *Outside Knowledge Visual Question Answering* | Hanbat univ. | 
+|  Jun.2022 ~ present  | Research Activities |  *Outside Knowledge & Knowledge Base Visual Question Answering* | Hanbat univ. | 
 ###
   
 <div align="center"><strong>
