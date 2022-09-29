@@ -5,15 +5,15 @@
 
 
 
-### :boy: profile
+### profile
   * ### Nationality : Republic of Korea
   * ### Birth : 1998
-  * ### Major : Computer engineering 
+  * ### Major : Computer Engineering 
   ### [Blog](https://deep-learning-challenge.tistory.com/)
 
 # 
     
-### 🌟 Interests
+### Interests
 
 - ### Computer Science
   * NLP
@@ -31,7 +31,7 @@
 - ### Programming
   * Python
 # 
- ### 💼 Internship
+ ### Internship
 
 <!--
     
@@ -74,7 +74,7 @@
 
 ###
 #
-### 👨‍🏫 Teaching Experience
+### Teaching Experience
 
 |     *Date*      |         *Class*   |        *Details*      | *Professor* |
 |:-------------:|:-------------------:|:---------------------:|:------------:|
@@ -116,7 +116,7 @@
 
 #
 <!--
-# 🌠 Tech Stacks
+# Tech Stacks
 
 Techs that I've used at least once
 
