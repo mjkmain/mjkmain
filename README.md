@@ -1,6 +1,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=mjkmain&fontSize=70) -->
 <div align="center"><h2>
-    Hello My name is Minjun Kim<br>I interested in Artificial Intelligence specifically NLP and Multimodal Learning.
+    Hello My name is Minjun Kim<br>I interested in Deep Learning, specifically NLP and Multimodal Learning.
 </div>
 
 
