@@ -32,7 +32,6 @@
 # 
  ### Internship
 
-<!--
     
 <div align="center"><strong>
     LI Lab. 
@@ -41,10 +40,9 @@
 ###
 |     *Date*      |         *Type*        |          *Contents*         |   *Details* |
 |:-------------:|:-------------------:|:-------------------------:|:----------:|
-|  Apr.2022 ~     | Join Lab.<br> (Research Intern)         |  Undergraduate Researcher | Join "Language Intelligence Lab."  <br> Research Topic : Common Sense Reasoning And Visual Question Answering, UNIST  |
+|  Apr.2022 ~ Sep.2022    | Undergraduate Student Intern         |  Undergraduate Researcher | Join "Language Intelligence Lab."  <br> Research Topic : Common Sense Reasoning And Visual Question Answering, UNIST  |
 ###
 
--->
 
     
 <div align="center"><strong>
@@ -81,7 +79,7 @@
 |Mar.2022 ~ Jun. 2022| Operating System | C.E. 2nd grade class | K.T. Lim|
 |Jan.2022      | Artifitial Intelligence Course| AI Intensive Training Course| K.T.Lim, H.E.Jang|
 |Sep.2021~Dec.2021| Deep Learning    |  C.E. 4th grade class | K.T.Lim |
-|Mar.2021~Jun.2021| Math Clinic |Math Tutor| Dept. of  basic science|
+|Mar.2021~Jun.2021| Math Clinic |Math Tutor| Dept. Basic of science|
     
     
     
