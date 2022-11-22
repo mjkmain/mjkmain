@@ -33,7 +33,7 @@
  ### Internship
 
     
-<!-- <div align="center"><strong>
+<div align="center"><strong>
     LI Lab. 
 </div>
 
@@ -41,7 +41,7 @@
 |     *Date*      |         *Type*        |          *Contents*         |   *Details* |
 |:-------------:|:-------------------:|:-------------------------:|:----------:|
 |  Apr.2022 ~ Sep.2022    | Undergraduate Student Intern         |  Undergraduate Researcher | Join "Language Intelligence Lab."  <br> Research Topic : Common Sense Reasoning And Visual Question Answering, UNIST  |
-### -->
+###
 
 
     
