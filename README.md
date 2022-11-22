@@ -92,6 +92,9 @@
     http://aifactory.space/competition/leaderboard/1946
 * DACON : NLI (23/467, top 4.9%), [Team name : "교수님GPU사주세요", Leader]  
     https://dacon.io/competitions/official/235875/leaderboard
+    
+ 
+    
 ###
 ### :trophy: Awards
   * 🥉 Won the third prize at 39th University Students Contest of Mathematics Part II (제 39회 대학생 수학 경시대회 II분야 동상)
@@ -100,7 +103,8 @@
     
   * 🥇 Won The Most Excellence prize at the University Student competition of Big Data Analysis 
     - link : http://m.thesegye.com/news/newsview.php?ncode=1065609379170316
-    
+   
+  * 소프트웨어 중심대학 주관 공동 AI 경진대회 장려상
     
 ###
 # 
