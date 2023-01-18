@@ -118,35 +118,6 @@
 | Spring 2022    |  Senior Scholarship | Hanbat university |
 | Spring 2022    | Presidential Science Scholarship <br>(대통령 과학 장학금)| Korea Student Aid Foundation [Link](https://www.news1.kr/articles/?4727983)|
 
-#
-<!--
-# Tech Stacks
-
-Techs that I've used at least once
-
-![Stack](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
-![Stack](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
-![Stack](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
-![Stack](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
-![Stack](https://img.shields.io/badge/numpy-8977ad?style=flat-square&logo=numpy&logoColor=white)
-![Stack](https://img.shields.io/badge/pandas-0080ff?style=flat-square&logo=pandas&logoColor=white)
-![Stack](https://img.shields.io/badge/LaTeX-eee6c4?style=flat-square&logo=Latex&logoColor=black)
-
-###
-![Stack](https://img.shields.io/badge/TensorFlow-FFA500?style=flat-square&logo=TensorFlow&logoColor=white)
-![Stack](https://img.shields.io/badge/PyTorch-FF4500?style=flat-square&logo=Pytorch&logoColor=white)
-###
-![Stack](https://img.shields.io/badge/jupyter-FF8C00?style=flat-square&logo=jupyter&logoColor=white)
-![Stack](https://img.shields.io/badge/GoogleColab-FFD700?style=flat-square&logo=GoogleColab&logoColor=black)
-![Stack](https://img.shields.io/badge/Slack-3e91b5?style=flat-square&logo=slack&logoColor=white)
-![Stack](https://img.shields.io/badge/VisualStudio-4b0082?style=flat-square&logo=VisualStudio&logoColor=white)
-![Stack](https://img.shields.io/badge/VisualStudioCode-4169e1?style=flat-square&logo=VisualStudioCode&logoColor=white)
-![Stack](https://img.shields.io/badge/eclipse-191970?style=flat-square&logo=eclipse&logoColor=white)
-![Stack](https://img.shields.io/badge/pycharm-AFEEEE?style=flat-square&logo=pycharm&logoColor=black)
-###
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjkmain&layout=compact&theme=tokyonight)
-###
--->
 
 ### 📬 Contact
 
