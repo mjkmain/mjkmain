@@ -4,8 +4,13 @@
 </div>
     
 
-### [Download CV](https://drive.google.com/uc?export=download&id=1ClrAX-neT_70hxChwxe12URlMfPpnnsT)
+<!-- ### [Download CV](https://drive.google.com/uc?export=download&id=1ClrAX-neT_70hxChwxe12URlMfPpnnsT) -->
+    
+### [Download CV](https://drive.google.com/file/d/1ClrAX-neT_70hxChwxe12URlMfPpnnsT/view?usp=sharing)
+
 <!--     
+
+
 ### profile
   * ### Nationality : Republic of Korea
   * ### Birth : 1998
