@@ -3,7 +3,7 @@
     Hello My name is Minjun Kim<br>I interested in Deep Learning, specifically NLP and Multimodal Learning.
 </div>
     
-### [Download CV](https://drive.google.com/file/d/1vvTmMuL5N030NB-ToZW_d6sQPU8LkDwh/view?usp=sharing)
+### [Download CV](https://drive.google.com/file/d/1rLiSAm_MXrMjO4QGBpvYx9zXGBAh2nsA/view?usp=sharing)
 
 ### profile
   * ### Nationality : Republic of Korea
