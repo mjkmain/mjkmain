@@ -10,9 +10,9 @@
   * ### Birth : 1998
   * ### Major : Computer Engineering 
   ### [Blog](https://deep-learning-challenge.tistory.com/)
+<!--
 
 # 
-    
 ### Interests
 
 - ### Computer Science
@@ -32,19 +32,6 @@
   * Python
 # 
  ### Internship
-
-    
-<div align="center"><strong>
-    LI Lab. 
-</div>
-
-###
-|     *Date*      |         *Type*        |          *Contents*         |   *Details* |
-|:-------------:|:-------------------:|:-------------------------:|:----------:|
-|  Apr.2022 ~ Sep.2022    | Undergraduate Student Intern         |  Undergraduate Researcher | Join "Language Intelligence Lab."  <br> Research Topic : Common Sense Reasoning And Visual Question Answering, UNIST  |
-###
-
-
     
 <div align="center"><strong>
     AAI Lab. 
@@ -139,3 +126,4 @@ mjkmain20@gmail.com
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mjkmain&layout=compact&theme=tokyonight) 
     
+-->
