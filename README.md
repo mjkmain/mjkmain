@@ -9,6 +9,9 @@
   * Nationality : Republic of Korea
   * Birth : 1998
   * Major : Computer Engineering
+
+### News
+Our paper "BOK-VQA: Bilingual Outside Knowledge-based Visual Question Answering via Graph Representation Pretraining" is accepted to Thirty-Eighth AAAI Conference on Artificial Intelligence(AAAI2024).
     
 [Blog](https://deep-learning-challenge.tistory.com/)
 <!--
