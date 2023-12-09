@@ -3,7 +3,7 @@
     Hello My name is Minjun Kim. I interested in LLM, MLM.
 </div>
     
-### [Download CV](https://drive.google.com/file/d/1gsoDc0V9yY3J8JGRgCtCWd1ZIxPcRUFZ/view?usp=sharing)
+### [Download CV](https://drive.google.com/file/d/1pX_xBrFWqAaBqH8HMv4gb3IQqU9LXfqr/view?usp=sharing)
 
 ### profile
   * Nationality : Republic of Korea
