@@ -1,6 +1,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=mjkmain&fontSize=70) -->
 <div align="center"><h2>
-    Hello My name is Minjun Kim. I interested in LLM, MLM.
+    Hello My name is Minjun Kim. I interested in LLM, LMM, MLLM, MLMM.
 </div>
     
 ### [Download CV](https://drive.google.com/file/d/1pX_xBrFWqAaBqH8HMv4gb3IQqU9LXfqr/view?usp=sharing)
