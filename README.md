@@ -15,8 +15,8 @@
 
 [2024.01] Our paper *"BOK-VQA: Bilingual Outside Knowledge-based Visual Question Answering via Graph Representation Pretraining"* is accepted to **AAAI2024**.
     
-[Blog](https://mjkmain.github.io)
 <!--
+[Blog](https://mjkmain.github.io)
 
 # 
 ### Interests
