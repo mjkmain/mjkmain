@@ -11,8 +11,8 @@
   * Major : Computer Engineering
 
 ### News
-- [2024.04] Our paper X-LLaVA: Optimizing Bilingual Large Vision-Language Alignment is accepted to Findings of NAACL 2024
-- [2024.01] Our paper "BOK-VQA: Bilingual Outside Knowledge-based Visual Question Answering via Graph Representation Pretraining" is accepted to Thirty-Eighth AAAI Conference on Artificial Intelligence(AAAI2024).
+[2024.04] Our paper *"X-LLaVA: Optimizing Bilingual Large Vision-Language Alignment"* is accepted to **Findings of NAACL 2024**
+[2024.01] Our paper *"BOK-VQA: Bilingual Outside Knowledge-based Visual Question Answering via Graph Representation Pretraining"* is accepted to **AAAI2024**.
     
 [Blog](https://mjkmain.github.io)
 <!--
