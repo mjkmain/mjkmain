@@ -6,7 +6,7 @@
 ### [Download CV](https://drive.google.com/file/d/1cWfw5EHmEhiHXfahkUbyIyfMTziafo--/view?usp=sharing)
 
 ### News
-I deadlifted **120 kg** (264.6 lbs)
+I deadlifted **120 kg** (264.6 lbs) !!
 
 <!--
 [2024.04] Our paper *"X-LLaVA: Optimizing Bilingual Large Vision-Language Alignment"* is accepted to **Findings of NAACL 2024**
