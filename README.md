@@ -3,12 +3,13 @@
     I interested in RL.
 </div>
     
-### [Download CV](https://drive.google.com/file/d/1cWfw5EHmEhiHXfahkUbyIyfMTziafo--/view?usp=sharing)
 
 ### News
 I deadlifted **120 kg** (264.6 lbs) !!
 
 <!--
+### [Download CV](https://drive.google.com/file/d/1cWfw5EHmEhiHXfahkUbyIyfMTziafo--/view?usp=sharing)
+
 [2024.04] Our paper *"X-LLaVA: Optimizing Bilingual Large Vision-Language Alignment"* is accepted to **Findings of NAACL 2024**
 
 [2024.01] Our paper *"BOK-VQA: Bilingual Outside Knowledge-based Visual Question Answering via Graph Representation Pretraining"* is accepted to **AAAI2024**.
