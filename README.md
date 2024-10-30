@@ -5,7 +5,7 @@
     
 
 ### News
-I deadlifted **120 kg** (265 lbs) !!
+I deadlifted **125 kg** (276 lbs) !!
 
 <!--
 ### [Download CV](https://drive.google.com/file/d/1cWfw5EHmEhiHXfahkUbyIyfMTziafo--/view?usp=sharing)
